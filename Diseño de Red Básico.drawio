@@ -4,6 +4,48 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-4" edge="1" parent="1" source="-x_Zgv0Z17cWxqtJicFi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;" target="-x_Zgv0Z17cWxqtJicFi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-2" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" value="Router&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="920" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-8" edge="1" parent="1" source="-x_Zgv0Z17cWxqtJicFi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;endArrow=none;endFill=0;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-x_Zgv0Z17cWxqtJicFi-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="480" />
+              <mxPoint x="1120" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-3" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Switch&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="920" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-5" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" value="Printer" vertex="1">
+          <mxGeometry height="80" width="80" x="1080" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-13" edge="1" parent="1" source="-x_Zgv0Z17cWxqtJicFi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=4;" target="-x_Zgv0Z17cWxqtJicFi-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="480" />
+              <mxPoint x="960" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-6" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" value="Laptop" vertex="1">
+          <mxGeometry height="80" width="80" x="920" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-14" edge="1" parent="1" source="-x_Zgv0Z17cWxqtJicFi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=4;" target="-x_Zgv0Z17cWxqtJicFi-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="480" />
+              <mxPoint x="960" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-x_Zgv0Z17cWxqtJicFi-7" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Desktop&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="740" y="520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
